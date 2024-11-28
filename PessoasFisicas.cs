@@ -1,16 +1,23 @@
 ﻿
 
-public class PessoasFisicas
+public class PessoasFisicas:Pessoas
 {
-    public string _idProprietarios;
-    public string _email;
-    public string _telefone;
-    public string _cpf;
+    private string _cpf;
     public string _rg;
     public string _dtNascimento;
     public string _sexo;
-    public string _cep;
-    public string _logradouro;
-    public string _bairro;
-    public string _numero;
+
+    public void SetVerifCpf(string cpf)
+    {
+        cpf = cpf.Replace("-", "").Replace(".", "");
+
+        if (cpf.Length == 11)
+        {
+            _cpf = cpf;
+        }
+        else
+        {
+            throw new Exception("CPF incorreto");
+        }
+    }
 }

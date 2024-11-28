@@ -10,4 +10,5 @@ public class Modelos
     public string qtdPassageiros;
     public string _cavalaria;
     public string _cilindradas;
+    public Marcas _marcas;
 }

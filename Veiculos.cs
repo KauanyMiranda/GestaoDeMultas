@@ -11,6 +11,9 @@ public class Veiculos
     public string _anomodelo;
     public string _situacao;
     public string _cor;
+    public Pessoas _pessoas;
+    public Modelos _modelos;
+    public Cidades _cidades;
 
     public void SetNivVerific(string niv)
     {

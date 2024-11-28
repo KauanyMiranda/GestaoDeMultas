@@ -8,4 +8,5 @@ public class Cnh
     public string _categoria;
     public string _pontuacao;
     public string _nCnh;
+    public Pessoas _pessoas;
 }
