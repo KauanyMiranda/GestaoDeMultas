@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\vistorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:vistorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\vistoriadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:vistoriadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\pessoasjuridicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:pessoasjuridicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\pessoasfisicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:pessoasfisicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\aplicacaomulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:aplicacaomulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:multas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:cnh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:cidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:marcas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|c:\\users\\2023202060022\\downloads\\gestaodemultas\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F01C534-DA11-4DDD-8C3D-4A638213DBB6}|GestaoDeMultas.csproj|solutionrelative:modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoasFisicas.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\PessoasFisicas.cs",
+              "RelativeDocumentMoniker": "PessoasFisicas.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\PessoasFisicas.cs",
+              "RelativeToolTip": "PessoasFisicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:23:10.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoasJuridicas.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\PessoasJuridicas.cs",
+              "RelativeDocumentMoniker": "PessoasJuridicas.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\PessoasJuridicas.cs",
+              "RelativeToolTip": "PessoasJuridicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:21:59.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vistoriadores.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Vistoriadores.cs",
+              "RelativeDocumentMoniker": "Vistoriadores.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Vistoriadores.cs",
+              "RelativeToolTip": "Vistoriadores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:13:37.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vistorias.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Vistorias.cs",
+              "RelativeDocumentMoniker": "Vistorias.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Vistorias.cs",
+              "RelativeToolTip": "Vistorias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:11:21.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AplicacaoMulta.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\AplicacaoMulta.cs",
+              "RelativeDocumentMoniker": "AplicacaoMulta.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\AplicacaoMulta.cs",
+              "RelativeToolTip": "AplicacaoMulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:08:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Multas.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Multas.cs",
+              "RelativeDocumentMoniker": "Multas.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Multas.cs",
+              "RelativeToolTip": "Multas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:00:27.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veiculos.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Veiculos.cs",
+              "RelativeDocumentMoniker": "Veiculos.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Veiculos.cs",
+              "RelativeToolTip": "Veiculos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:27:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Estados.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Estados.cs",
+              "RelativeDocumentMoniker": "Estados.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Estados.cs",
+              "RelativeToolTip": "Estados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:57:26.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cnh.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Cnh.cs",
+              "RelativeDocumentMoniker": "Cnh.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Cnh.cs",
+              "RelativeToolTip": "Cnh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:58:46.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cidades.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Cidades.cs",
+              "RelativeDocumentMoniker": "Cidades.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Cidades.cs",
+              "RelativeToolTip": "Cidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:56:02.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Marcas.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Marcas.cs",
+              "RelativeDocumentMoniker": "Marcas.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Marcas.cs",
+              "RelativeToolTip": "Marcas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:54:34.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Modelos.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Modelos.cs",
+              "RelativeDocumentMoniker": "Modelos.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Modelos.cs",
+              "RelativeToolTip": "Modelos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:49:05.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2023202060022\\Downloads\\GestaoDeMultas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:25:01.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

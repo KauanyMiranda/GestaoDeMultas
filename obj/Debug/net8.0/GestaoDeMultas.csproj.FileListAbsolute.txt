@@ -1,0 +1,14 @@
+C:\Users\2023202060022\Downloads\GestaoDeMultas\bin\Debug\net8.0\GestaoDeMultas.exe
+C:\Users\2023202060022\Downloads\GestaoDeMultas\bin\Debug\net8.0\GestaoDeMultas.deps.json
+C:\Users\2023202060022\Downloads\GestaoDeMultas\bin\Debug\net8.0\GestaoDeMultas.runtimeconfig.json
+C:\Users\2023202060022\Downloads\GestaoDeMultas\bin\Debug\net8.0\GestaoDeMultas.dll
+C:\Users\2023202060022\Downloads\GestaoDeMultas\bin\Debug\net8.0\GestaoDeMultas.pdb
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\GestaoDeMultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\GestaoDeMultas.AssemblyInfoInputs.cache
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\GestaoDeMultas.AssemblyInfo.cs
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\GestaoDeMultas.csproj.CoreCompileInputs.cache
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\GestaoDeMultas.dll
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\refint\GestaoDeMultas.dll
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\GestaoDeMultas.pdb
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\GestaoDeMultas.genruntimeconfig.cache
+C:\Users\2023202060022\Downloads\GestaoDeMultas\obj\Debug\net8.0\ref\GestaoDeMultas.dll
